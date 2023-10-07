@@ -1,5 +1,5 @@
 # Jeffrey M Slarve
-Currently available for work. [Click here to contact](https://jssoftware.com/jssoftware/Contact_Us/contact_us.html) <br>
+Currently unavailable for work.  <br>
 	
 	I have been writing computer software since 1991, mostly in the Clarion language, and	
 	have written apps related to the chemical, rental, property management, and
@@ -24,10 +24,10 @@ Read more about the Clarion language [here](http://www.softvelocity.com/).
 
 ## Skills and Tools
 	Although my expertise mostly lies with Clarion, learning new things has always been part of
-	my daily regimen. I have studied javascript, C, C++, HTML5, SQL, C#, PowerBasic, and various
+	my daily regimen. I have studied javascript, typescript, C, C++, golang, HTML5, python, SQL, C#, PowerBasic, and various
 	other languages (with varying degrees of strength). 
 	
-	I have maintained my license with the latest version of Clarion (Currently 11 EE) and also 
+	I have maintained my license with the latest version of Clarion (Currently 11.1 EE) and also 
 	have licenses for quite a few 3rd party addons.
 	
 	I love/prefer to handcode Clarion (with classes), but know how to use appgen and can write 
@@ -37,14 +37,11 @@ Read more about the Clarion language [here](http://www.softvelocity.com/).
 	I love to twiddle bits (especially color bits), know how to utilize most non-Clarion 32-bit 
 	libraries (such as Windows API) and have also dabbled in MIDI.
 	
-	In addition to software development, I write music and create graphics.
 	
-	I use version control on a regular basis and have a few public repositories on github.
-	https://github.com/jslarve. I can help you get set up with git, and I know you would love it.
+	I use version control on a regular basis and have a few public repositories on [github](https://github.com/jslarve/).
 	
 ## Hire Me
 	My typical rate for small jobs is US $120/hr. Depending on the type of work, I can be flexible.
 	For longer term jobs, I am open to negotiation.
 	
-Currently available for work. [Click here to contact](https://jssoftware.com/jssoftware/Contact_Us/contact_us.html) <br>
 	

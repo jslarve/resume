@@ -38,7 +38,7 @@ Read more about the Clarion language [here](http://www.softvelocity.com/).
 	libraries (such as Windows API) and have also dabbled in MIDI.
 	
 	
-	I use version control on a regular basis and have a few public repositories on [github](https://github.com/jslarve/).
+I use version control on a regular basis and have a few public repositories on [github](https://www.github.com/jslarve/) .
 	
 ## Hire Me
 	My typical rate for small jobs is US $120/hr. Depending on the type of work, I can be flexible.
